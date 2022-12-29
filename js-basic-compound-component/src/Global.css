@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  height: auto;
+  width: 400px;
+  background: #f2f2f2;
+  overflow: hidden;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 20px 8px #d0d0d0;
+}
+
+.cardHeader {
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.cardBody {
+  margin: 10px;
+  border: 1px solid black;
+}
